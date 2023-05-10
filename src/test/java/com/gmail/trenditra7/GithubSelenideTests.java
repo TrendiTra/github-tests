@@ -1,3 +1,4 @@
+package com.gmail.trenditra7;
 /*
 Разработайте следующий автотест:
 
